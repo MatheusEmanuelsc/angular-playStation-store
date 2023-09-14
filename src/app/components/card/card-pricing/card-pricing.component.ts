@@ -10,4 +10,6 @@ export class CardPricingComponent {
   gameType:string="Digital ps4"
   @Input()
   gamePrice:string="399,90"
+  @Input()
+  gameLabel:string="";
 }
