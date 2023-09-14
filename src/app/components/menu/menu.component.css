@@ -20,7 +20,7 @@
 
 .menu-bar__nav{
   display: flex;
-  align-items: end;
+  align-items: center;
   gap: 1rem;
   text-transform: uppercase;
   list-style: none;
